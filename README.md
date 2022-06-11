@@ -6,6 +6,9 @@ to see "key press" acitvity to stay alive, awake, or attentive.
 
 Scripts generate system key press activity on a random interval and a set of defined keys (configurable)
 
+NoSleep style scripts available in a variety of places on the Internet; just one person's
+sample below
+
 ---
 
 ## Contains:
