@@ -13,6 +13,6 @@ sample below
 
 ## Contains:
 * [nosleep.ps1](nosleep.ps1) - PowerShell version
-* [nosleep.vbs](nosleep.vbs) - Visual Basic version
+* [nosleep.vbs](nosleep.vbs) - VisualBasic Script version
 
 ---
