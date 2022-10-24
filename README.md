@@ -17,6 +17,4 @@ sample below
 
 ---
 
-Test
-2
 
