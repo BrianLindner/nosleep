@@ -1,3 +1,6 @@
+' keepawake.vbs
+' Windows keep-awake helper using WScript key press simulation
+
 dim objResult
 dim min_seconds, max_seconds
 dim key_index
